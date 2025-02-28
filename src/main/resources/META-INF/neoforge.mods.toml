@@ -6,10 +6,10 @@ license = "CC0"
 [[mods]]
 modId = "imlocalizer"
 version = "${version}"
-displayName = "Example Mod"
-authors = "Me!"
+displayName = "IMLocalizer"
+authors = "TexTrue"
 description = '''
-This is an example description! Tell everyone what your mod is about!
+
 '''
 #logoFile = ""
 
